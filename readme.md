@@ -9,6 +9,9 @@ Modernizr tests which native CSS3 and HTML5 features are available in the curren
 
 Modernizr has an optional (*not included*) conditional resource loader called `Modernizr.load()`, based on [Yepnope.js](http://yepnopejs.com). You can get a build that includes `Modernizr.load()`, as well as choosing which feature tests to include on the [Download page](http://www.modernizr.com/download/).
 
+## Installation
+
+    $ component install timoxley/Modernizr
 
 ## Test suite
 
